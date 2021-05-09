@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bandhan Munjal</h1>
-<h3 align="center">A Lead Engineer, a passionate developer and enthusiast of everything that is science, code and exciting !!</h3>
+<h3 align="center">A Lead Engineer, passionate developer and enthusiast of everything that is science, code and business !!</h3>
 
 - 🌱 I’m currently learning **AI/ML and Game Development**
 
