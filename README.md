@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bandhanmunjal" target="blank"><img align="center"alt="bandhanmunjal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bandhanmunjal" target="blank"><img align="center" alt="bandhanmunjal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCvVEZgGZkYSRyWlB8dW6Pdw" target="blank"><img align="center" alt="bandhan munjal" height="30" width="40" /></a>
+<a href="https://twitter.com/bandhanmunjal" target="blank">Twitter</a>
+<a href="https://linkedin.com/in/bandhanmunjal" target="blank">LinkedIn</a>
+<a href="https://www.youtube.com/channel/UCvVEZgGZkYSRyWlB8dW6Pdw" target="blank">Youtube</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
